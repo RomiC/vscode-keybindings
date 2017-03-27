@@ -1,0 +1,19 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "editor.fontFamily": "Fira Code",
+    "editor.fontSize": 12,
+    "editor.fontLigatures": true,
+    "editor.formatOnPaste": true,
+    "editor.tabSize": 2,
+    "files.eol": "\n",
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "terminal.integrated.fontLigatures": true,
+    "terminal.integrated.fontSize": 12,
+    "explorer.openEditors.visible": 0,
+    "editor.wordWrap": true,
+    "editor.wrappingIndent": "indent",
+    "window.menuBarVisibility": "toggle",
+    "git.confirmSync": false,
+    "vsicons.projectDetection.autoReload": true,
+    "workbench.iconTheme": "vscode-icons"
+  }
